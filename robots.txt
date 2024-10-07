@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vuzazoluvuju.pages.dev/sitemap.xml
